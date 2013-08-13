@@ -6,7 +6,9 @@ The project allows the user to find people either from his or her contacts or fr
 
 
 NOTE: This project is essentially a combination of the following two projects:
+
 https://github.com/bradley/iOSFacebookFriendFinder
+
 https://github.com/bradley/iOSUserContactFinder
 
 
