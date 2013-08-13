@@ -11,6 +11,8 @@ https://github.com/bradley/iOSFacebookFriendFinder
 
 https://github.com/bradley/iOSUserContactFinder
 
+However, there is more abstraction involved here in the name of keeping things DRY.
+
 
 ## Connecting with Facebook
 
