@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6C7D2867-7878-4162-A7F9-B9EFADC3842C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PersonFinder</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6681CA22-A5D2-4D65-BEF8-BC3B64FF01AA</key>
+		<string>https://github.com/bradley/appComponents.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iOSPersonFinder/PersonFinder.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6681CA22-A5D2-4D65-BEF8-BC3B64FF01AA</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/bradley/appComponents.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6681CA22-A5D2-4D65-BEF8-BC3B64FF01AA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6681CA22-A5D2-4D65-BEF8-BC3B64FF01AA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>app_elements</string>
+		</dict>
+	</array>
+</dict>
+</plist>
